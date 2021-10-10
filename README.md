@@ -12,12 +12,12 @@ I am interested in improving my skills, meeting people and making a living from 
 
 - 📫 How to reach me **conrdruben@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/https://www.linkedin.com/in/ruben-yañez-274b00208/](https://www.linkedin.com/in/https://www.linkedin.com/in/ruben-yañez-274b00208/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ruben-ya%C3%B1ez/](https://www.linkedin.com/in/ruben-ya%C3%B1ez/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@conrderuben1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@conrderuben1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ruben-ya%C3%B1ez-274b00208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruben-yañez-274b00208/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ruben-ya%C3%B1ez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruben-yañez-274b00208/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
