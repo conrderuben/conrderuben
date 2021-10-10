@@ -26,6 +26,9 @@ I am interested in improving my skills, meeting people and making a living from 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</div>
+<a href="https://www.oracle.com/es/java/" target="_blank"> <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" alt="Java" width="50" height="50"/> </a>
+ <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img src="http://pngimg.com/uploads/php/php_PNG12.png" alt="PHP" width="60" height="40"/> </a>
+  
 
+</div>
 
