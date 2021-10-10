@@ -4,7 +4,7 @@ I am interested in improving my skills, meeting people and making a living from 
 
 - 📈 I’m programmer in progress, constantly learning.
 
-- 🔬 I’m currently working on in expanding my knowledge.
+- 🔬 I’m currently working on expanding my knowledge.
 
 - 🌱 I’m currently learning **JavaScript, PHP, CSS**
 
