@@ -6,7 +6,7 @@ I am interested in improving my skills, meeting people and making a living from 
 
 - 🔬 I’m currently working on expanding my knowledge.
 
-- 🌱 I’m currently learning **JavaScript, PHP, CSS, Bootstrap...**
+- 🌱 I’m currently learning **TrypeScript, Testing and more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/conrderuben](https://github.com/conrderuben)
 
